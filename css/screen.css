@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: white;
-  font: 14px georgia, helvetica, arial, clean, sans-serif;
+  font: 15px georgia, helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -69,7 +69,7 @@ ul.posts {
   ul.posts span {
     color: #aaa;
     font-family: georgia, helvetica, arial, clean, sans-serif;
-    font-size: 80%;
+    font-size: 100%;
   }
 
 /*****************************************************************************/
@@ -87,13 +87,13 @@ ul.posts {
 }
 
 .title {
-  color: #a00;
+  color: #8C489F;
   font-weight: bold;
   margin-bottom: 2em;
 }
 
   .site .title a {
-    color: #a00;
+    color: #8C489F;
     text-decoration: none;
   }
 
@@ -116,7 +116,7 @@ ul.posts {
   }
 
   .site .footer {
-    font-size: 80%;
+    font-size: 90%;
     color: #666;
     border-top: 4px solid #eee;
     margin-top: 2em;
