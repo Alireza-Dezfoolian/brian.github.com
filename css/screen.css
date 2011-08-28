@@ -68,9 +68,10 @@ ul.posts {
 
   ul.posts span {
     color: #aaa;
-    font-family: "Helvetica Neue", georgia, helvetica, arial, clean, sans-serif;
-    font-size: 100%;
+    font-family: "Courier New", monospace;
+    font-size: 80%;
   }
+
 
 /*****************************************************************************/
 /*
@@ -118,7 +119,7 @@ ul.posts {
   .site .footer {
     font-size: 90%;
     color: #666;
-    border-top: 4px solid #eee;
+    border-top: 3px solid #8C489F;
     margin-top: 2em;
     overflow: hidden;
   }
@@ -166,7 +167,6 @@ ul.posts {
   }
 
   #post blockquote {
-    font-style: italic;
 	font-size: 16px;
 	padding: .25em 1em;
 	margin: 0em 1em 0 1em;
