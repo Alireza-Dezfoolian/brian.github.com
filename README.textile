@@ -1,3 +1,4 @@
-h1. Basics
+h1. BrianBailey.me
 
-h1. License
+This is the content for my personal site, BrianBailey.me. It is powered by <a href="https://github.com/mojombo/jekyll">Jekyll</a> and largely uses the simple, elegant design created by <a href="https://github.com/mojombo/mojombo.github.com">Tom Preston-Werner</a>, creator of Jekyll. Thanks for GitHub, Jekyll, and making this site possible, Tom.
+
