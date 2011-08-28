@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Brian Bailey</title>
- <link href="http://brian.github.com/atom.xml" rel="self"/>
- <link href="http://brian.github.com/"/>
+ <link href="http://brianbailey.me/atom.xml" rel="self"/>
+ <link href="http://brianbailey.me/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://brian.github.com/</id>
+ <id>http://brianbailey.me/</id>
  <author>
    <name>Brian Bailey</name>
    <email>brianbailey@gmail.com</email>
@@ -17,9 +17,9 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://brian.github.com{{ post.url }}"/>
+   <link href="http://brianbailey.me{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://brian.github.com{{ post.id }}</id>
+   <id>http://brianbailey.me{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
