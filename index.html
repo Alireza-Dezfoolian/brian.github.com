@@ -4,11 +4,23 @@ title: Brian Bailey
 ---
 
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1>Recent Posts</h1>
   <ul class="posts">
     {% for post in site.posts limit:15 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+
+  <h1>Some Favorites</h1>
+  <ul class="posts">
+	<li><span>02 Jan 2009</span> &raquo; <a href="/2009/01/02/on-top-of-things">On Top of Things</a></li>
+	<li><span>21 Sep 2008</span> &raquo; <a href="/2008/09/21/the-reasons-bloomberg-decided-not-to-run-and-why-he-was-wrong-">The Reasons Bloomberg Decided Not to Run (and Why He was Wrong)</a></li>
+	<li><span>22 Jun 2008</span> &raquo; <a href="/2008/06/22/sundays-without-tim">Sundays Without Tim</a></li>
+	<li><span>07 Apr 2007</span> &raquo; <a href="/2007/04/07/10-best-shows-for-families">10 Shows for Families</a></li>
+	<li><span>02 Mar 2007</span> &raquo; <a href="/2007/03/02/top-10-songs-about-kids">10 Songs About Kids</a></li>
+	<li><span>24 Jan 2007</span> &raquo; <a href="/2007/01/24/10-steps-to-writing-a-better-book">10 Steps to Writing a Better Book</a></li>
+	<li><span>11 Oct 2006</span> &raquo; <a href="/2006/10/11/apple-buys-u2-for-1-8b">Apple Buys U2 for $1.8B</a></li>
+  </ul>
+
 </div>
 

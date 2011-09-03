@@ -126,7 +126,7 @@ ul.posts {
 
     .site .footer .contact {
       float: left;
-      margin-right: 5em;
+      margin-right: 1.5em;
     }
 
       .site .footer .contact a {
@@ -135,7 +135,7 @@ ul.posts {
 
       .site .footer .contact img {
 	    float: left;
-        margin-right: 1em;
+        margin-right: 1.5em;
       }
 
     .site .footer .rss {
@@ -210,9 +210,14 @@ ul.posts {
     background-color: #333;
   }
 
-#related {
-  margin-top: 2em;
-}
+  #related {
+    margin-top: 2em;
+  }
+
+  #data {
+	font-size: 75%;
+  }
+
 
   #related h2 {
     margin-bottom: 1em;

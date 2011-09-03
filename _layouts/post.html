@@ -2,7 +2,9 @@
 layout: default
 ---
 
-<strong>{{ page.title }}</strong>
+<strong>{{ page.title }}</strong><br/>
+<div id="data">Written on {{ page.date | date:"%A, %B %d, %Y" }}</div>
+
 
 <div id="post">
 {{ content }}
