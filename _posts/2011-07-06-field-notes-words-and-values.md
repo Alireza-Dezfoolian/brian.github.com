@@ -2,9 +2,6 @@
 layout: post
 title: Field Notes, Words, and Values
 ---
-
-<p class="meta">July 6, 2011</p>
-
 <p>I love <a target="_blank" href="http://fieldnotesbrand.com/">Field Notes</a>, as much for the way they communicate as for their fine products. The copy on the Field Notes site is terrific, but their sporadic emails really shine. They&rsquo;re worth subscribing to simply for writing and marketing inspiration. The tone is friendly and direct.</p>
 <p>Today&rsquo;s email included a great line that says a lot about the company:</p>
 <blockquote>
