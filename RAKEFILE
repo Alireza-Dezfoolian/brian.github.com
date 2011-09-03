@@ -41,7 +41,9 @@ end
  
 desc "Deploy"
 task :deploy do
+  print "Commit message: "
+  title = $stdin.gets.chomp.strip
   sh "git add ."
-  sh "git commit -am 'Added a post.'"
+  sh "git commit -am '#{title}'"
   sh "git push origin master"
 end

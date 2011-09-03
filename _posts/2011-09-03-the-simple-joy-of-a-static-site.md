@@ -1,7 +1,6 @@
 --- 
 title: The Simple Joy of a Static Site
 layout: post
-published: false
 ---
 The more I've wanted to write over the past few months, the more I've wanted to find a better place to do it. Over the past seven years, I've used TypePad, WordPress, Tumblr and some of the lesser-known, now-defunct tools. Each has served me well in different ways, but eventually you realize that all of these services change over time, often evolving into something that doesn't work for you anymore. Others simply fade away. 
 
