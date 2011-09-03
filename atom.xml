@@ -13,8 +13,7 @@ layout: nil
    <name>Brian Bailey</name>
    <email>brianbailey@gmail.com</email>
  </author>
-
- {% for post in site.posts %}
+ {% for post in site.posts limit:20 %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="http://brianbailey.me{{ post.url }}"/>
