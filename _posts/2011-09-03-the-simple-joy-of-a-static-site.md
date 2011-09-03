@@ -16,4 +16,4 @@ Thankfully, I came across a few posts extolling the virtues of static sites, inc
 
 The benefits are speed (there's so little involved in rendering a single page of HTML that things load quickly) and simplicity. You can host the site pretty much anywhere you want and little can go wrong. The essentials are easy and the non-essentials are just difficult enough to discourage you from messing up the simplicity.
 
-After a great deal of research, I settled on [Jekyll hosted on GitHub](https://github.com/mojombo/jekyll). You can take a [look at the new site here](http://brianbailey.me). More on the decision and transition shortly.
+After a great deal of research, I settled on [Jekyll hosted on GitHub](https://github.com/mojombo/jekyll). It has been a sublime experience. You can take a [look at the new site here](http://brianbailey.me). More on the decision and transition shortly.
