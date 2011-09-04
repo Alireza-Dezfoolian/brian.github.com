@@ -1,0 +1,14 @@
+---
+layout: default
+title: Archive
+---
+<h2>Archive</h2>
+
+  <div>
+  	<ul class="archive_title">
+  	  {% for post in site.posts %}
+  		<li><span><a href="{{ post.url }}">{{ post.title }}</a><br/>
+	    {{ post.content | number_of_words }} words on {{ post.date | date:"%A, %B %d, %Y" }}</span></li>
+  	  {% endfor %}
+  	</ul>
+  </div>
