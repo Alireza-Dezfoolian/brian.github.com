@@ -148,6 +148,19 @@ ul.posts {
         border: 0;
       }
 
+   .site .more_content {
+	
+   }
+   
+   .site .more_content .prev {
+	font-size: 85%;
+   }
+
+   .site .more_content .next {
+	font-size: 85%;
+	float: right;
+   } 
+
 
 /*****************************************************************************/
 /*
@@ -217,7 +230,6 @@ ul.posts {
   #data {
 	font-size: 75%;
   }
-
 
   #related h2 {
     margin-bottom: 1em;
