@@ -1,5 +1,5 @@
 --- 
-title: Making Friends with Jekyll
+title: Making Friends With Jekyll
 layout: post
 ---
 
