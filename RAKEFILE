@@ -40,8 +40,8 @@ task :test do
 end
 
  
-desc "Deploy"
-task :deploy do
+desc "Publish"
+task :publish do
   print "Commit message: "
   title = $stdin.gets.chomp.strip
   sh "git add ."
