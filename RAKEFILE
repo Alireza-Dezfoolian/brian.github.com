@@ -25,6 +25,7 @@ layout: post
     EOF
   end
   puts "Created '_posts/#{time}-#{name}.md'"
+  system "open -a textmate _posts/#{time}-#{name}.md"
 end
   
 
