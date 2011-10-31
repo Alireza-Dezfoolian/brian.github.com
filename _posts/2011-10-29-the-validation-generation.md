@@ -18,7 +18,7 @@ Some of this is the simple fact that if you assign a score to anything, a group 
 
 Anytime you create something (and I'm including everything from tweets, posts, and photos to the work we do), there are two ways to look at the result: what you think about what you created and what everyone else thinks about it. What I see more and more is that what everyone else thinks is determining what _we_ think, and that isn't healthy. 
 
-Feedback and compliments are a wonderful thing, even when they're as effortless as a Twitter retweet or tapping a heart next to an Instagram. It's just that the two things have to remain distinct from one another. If you love what you wrote, the lack of a response or even a negative response shouldn't change that. If the photo makes you smile, it doesn't matter if it makes anyone else smile. 
+Feedback and compliments are a wonderful thing, even when they're as effortless as a Twitter retweet or tapping a heart next to an Instagram photo. It's just that the two things have to remain distinct from one another. If you love what you wrote, the lack of a response or even a negative response shouldn't change that. If the photo makes you smile, it doesn't matter if it makes anyone else smile. 
 
 Approval from others shouldn't determine how you feel about what you created.
 
