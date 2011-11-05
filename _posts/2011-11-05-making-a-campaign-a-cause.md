@@ -39,6 +39,8 @@ The campaign has not tried to hide that they're staking everything on their show
 
 	I'm personally not a fan of taking people to [a Twylah page](http://www.twylah.com/jonhuntsman) instead of directly to Twitter, but perhaps it has benefits that outweigh the negatives.
 
+	Small thing, but I think the [@JonHuntsman](https://twitter.com/#!/jonhuntsman) Twitter account bio should mention the part about him running for president. 
+
 5. Increase the candidate's interaction with people online through live streamed speeches, virtual town halls, or even something as simple as one hour of questions on [Formspring](http://formspring.com). 
 
 6. Emphasize the candidate's two years as ambassador to China online and in email. Yes, everyone was concerned that working for Obama would be a negative and maybe it has been. But it's not with the army that you're building online. Unlike Romney, Gingrich, and Cain, Huntsman had an actual job just a month before he started running. Not only is it the only foreign policy experience in the field, but it's with the single most important country outside of our own. 
@@ -51,7 +53,7 @@ The campaign has not tried to hide that they're staking everything on their show
 
 9. Greatly improve the [@Jon2012HQ](https://twitter.com/#!/Jon2012HQ) Twitter account. This should be used to reach out to people across the country and help build a passionate community. It should be updated very often with behind-the-scenes details and photos. It should reply to people regularly and participate heavily in the online conversation (instead of one reply in the last month). Finally, it should be very limited in what it retweets. With all due respect to spokesman [@Timodc](https://twitter.com/#!/Timodc), most people won't know who he is and nothing in the username or photo makes it clear. There's no reason that info can't be tweeted as original. 
 
-	Small thing, but I think the [@JonHuntsman](https://twitter.com/#!/jonhuntsman) Twitter account bio should mention the part about him running for president. 
+	Also, I don't think the use of the #jonhuntsman and #gop2012 hashtags serve much purpose at all, based on the activity around them. Why clutter every tweet with them? And if you're going to try to establish a campaign hashtag, shorter is almost always better, like #H2012, #JH2012 or #Huntsman.
 
 10. The campaign videos have been decent, but uneven. Many simply tie together clips from political shows, which I understand is a common and presumably low-cost way to create an ad. I don't know if the campaign realizes that when Huntsman himself is included in these as a clip from a news show, it manages to reduce him to the same level as the reporters and other candidates. He's just one more in a stream of noise. Those elements are also odd in that Huntsman is talking to someone else, rather than the viewer, increasing the sense of disconnect.
 
