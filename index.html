@@ -6,7 +6,7 @@ title: Brian Bailey
 <div id="home">
   <h1>Recent Posts</h1>
   <ul class="posts">
-    {% for post in site.posts limit:15 %}
+    {% for post in site.posts limit:9 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
@@ -14,6 +14,7 @@ title: Brian Bailey
   <h1>Some Favorites</h1>
   <ul class="posts">
 	<li><span>02 Jan 2009</span> &raquo; <a href="/2009/01/02/on-top-of-things">On Top of Things</a></li>
+	<li><span>26 Sep 2008</span> &raquo; <a href="/2008/09/26/don-t-call-them-worthless/">Don't Call Them Worthless</a></li>
 	<li><span>21 Sep 2008</span> &raquo; <a href="/2008/09/21/the-reasons-bloomberg-decided-not-to-run-and-why-he-was-wrong-">The Reasons Bloomberg Decided Not to Run (and Why He was Wrong)</a></li>
 	<li><span>22 Jun 2008</span> &raquo; <a href="/2008/06/22/sundays-without-tim">Sundays Without Tim</a></li>
 	<li><span>07 Apr 2007</span> &raquo; <a href="/2007/04/07/10-best-shows-for-families">10 Shows for Families</a></li>
