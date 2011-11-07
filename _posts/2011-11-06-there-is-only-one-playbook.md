@@ -2,7 +2,7 @@
 title: There Is Only One Playbook
 layout: post
 ---
-If you asked me to name my favorite things, high on that list would the [Politico Playbook][pb]. There is nothing else like it or it's author, [Mike Allen][mike].
+If you asked me to name my favorite things, high on that list would be [Politico Playbook][pb]. There is nothing else like it or it's author, [Mike Allen][mike].
 
 Playbook is almost quaint in its simplicity. It's a daily email newsletter. That simplicity is part of its charm. It's a social network without usernames or followers, built by a single person sending one email every morning, seven days a week, 365 days a year.
 
