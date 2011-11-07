@@ -10,7 +10,7 @@ This single email (which you can read [on the site][pb], but why would you?) arr
 
 All of that would make Playbook worthwhile and noteworthy, but it's not what makes it special. It's the tone and spirit in which it is written. The people of politics — advocates, politicians, staff, and the journalists who cover them — are all treated equally and with respect. The reporting is fair, the sources balanced, and the benefit of the doubt given. It's remarkably close to the world of Sorkin's _The West Wing_, a place where public service is noble and the people in it are [fundamentally decent and patriotic](/2008/09/26/don-t-call-them-worthless/). It also reminds me of [Tim Russert](/2008/06/22/sundays-without-tim/).
 
-The political world becomes a small town in Allen's hands. It the midst of wars, debates, and campaigns, births and birthdays are celebrated, anniversaries marked, engagements announced (with on-the-scene reporting), and weddings detailed. Tales of children's athletic accomplishments are told next to the latest polls. It's like the morning radio commentaries on [Northern Exposure][ne].
+In Playbook, the political world becomes a small town. Births and birthdays are celebrated, anniversaries marked, engagements announced (with on-the-scene reporting), and weddings detailed. Tales of children's athletic accomplishments are told next to the latest polls. It's like the morning radio commentaries on [Northern Exposure][ne].
 
 There's a healthy sense of perspective that runs through Playbook. We're all in this together. No one is on top for long. People matter above everything else, so be kind. 
 
