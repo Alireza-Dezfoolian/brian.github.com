@@ -2,7 +2,7 @@
 title: There Is Only One Playbook
 layout: post
 ---
-If you asked me to name my favorite things, high on that list would be [Politico Playbook][pb]. There is nothing else like it or it's author, [Mike Allen][mike].
+If you asked me to name my favorite things, high on that list would be [Politico Playbook][pb]. There is nothing else like it or its author, [Mike Allen][mike].
 
 Playbook is almost quaint in its simplicity. It's a daily email newsletter. That simplicity is part of its charm. It's a social network without usernames or followers, built by a single person sending one email every morning, seven days a week, 365 days a year.
 
@@ -14,7 +14,7 @@ In Playbook, the political world becomes a small town. Births and birthdays are 
 
 There's a healthy sense of perspective that runs through Playbook. We're all in this together. No one is on top for long. People matter above everything else, so be kind. 
 
-Allen is constantly in touch with the most powerful people in the country, but responds to thousands of emails every day. I've sent him two and received generous replies both times. He's simply a class act. (_Note:_ The New York Times ran [the definite profile of Mike Allen][nyt] in 2010. It's a fascinating read.)
+Allen is constantly in touch with the most powerful people in the country, but responds to thousands of emails every day. I've sent him two and received generous replies both times. He's simply a class act. (_Note:_ The New York Times ran [the definitive profile of Mike Allen][nyt] in 2010. It's a fascinating read.)
 
 The fact that Playbook is completely free is incredible. How much would you pay to have an expert tell you everything you need to know about your favorite topic, first thing in the morning, every day of the year? I want five more Playbooks.
 
