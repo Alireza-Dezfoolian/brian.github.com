@@ -18,7 +18,7 @@ Allen is constantly in touch with the most powerful people in the country, but r
 
 The fact that Playbook is completely free is incredible. How much would you pay to have an expert tell you everything you need to know about your favorite topic, first thing in the morning, every day of the year? I want five more Playbooks.
 
-If you're even slightly interested in politics or want to follow the campaign, [subscribe][pb] and give it a try for a week or two (and don't worry about skipping or skimming parts that aren't of interest). You'll learn a lot about politics. You'll be introduced to ideas and people you wouldn't come across otherwise. You'll marvel at the writing, reporting, and spirit of it all. Eventually you'll be drinking your morning coffee from your Playbook mug (seriously, how are there not Playbook mugs?), wondering how you started your day without it.
+If you're even slightly interested in politics or want to follow the campaign, [subscribe][pb] and give it a try for a week or two (don't worry about skipping or skimming parts that aren't of interest). You'll learn a lot about politics. You'll be introduced to ideas and people you wouldn't come across otherwise. You'll marvel at the writing, reporting, and spirit of it all. Eventually you'll be drinking your morning coffee from your Playbook mug (seriously, how are there not Playbook mugs?), wondering how you started your day without it.
 
 And you might find yourself feeling a little bit better about our country and the people who lead it.
 
