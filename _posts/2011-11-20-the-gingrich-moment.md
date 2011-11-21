@@ -4,7 +4,7 @@ layout: post
 ---
 If you follow politics, you know the last two weeks have been dominated by talk of the Gingrich Surge. With Herman Cain tumbling from his precarious perch atop the Republican field, former Speaker of the House Newt Gingrich is enjoying his moment as the _I'm-Not-Mitt-Romney_ choice of perpetually unsatisfied primary voters. 
 
-It was obvious that the Gingrich story would land on the cover of this week's issue of [The Weekly Standard](http://www.weeklystandard.com/issue/current) and I hoped they would take advantage of this by replaying a version of the famous cover from the premier issue, dated September 9, 1995. It was the height of the Gingrich Revolution, just before the government shutdown, Monica Lewinsky, and his remarkable fall. Alas, they did not. 
+It was obvious that the Gingrich story would land on the cover of this week's issue of [The Weekly Standard](http://www.weeklystandard.com/articles/history-newt_609219.html?nopager=1) and I hoped they would take advantage of this by replaying a version of the famous cover from the premier issue, dated September 9, 1995. It was the height of the Gingrich Revolution, just before the government shutdown, Monica Lewinsky, and his remarkable fall. Alas, they did not. 
 
 A brief email exchange with [Playbook](http://www.politico.com/playbook/) made me curious about how many covers Gingrich had been on over the years. I tracked down four and the beauty of them is they sum up Gingrich's career in just four images.
 
