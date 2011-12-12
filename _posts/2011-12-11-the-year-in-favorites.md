@@ -9,13 +9,13 @@ For now, let's start with something simple—a quick look at some of my favorite
 **Albums**
 
 + [Whatever's on Your Mind](http://www.amazon.com/Whatevers-Your-Mind-Gomez/dp/B004XD07KI/), Gomez
++ [King of Limbs](http://www.amazon.com/King-Limbs-Radiohead/dp/B004NSULHM/), Radiohead
 + [Belong](http://www.amazon.com/Belong-Pains-Being-Pure-Heart/dp/B004M66YSA), The Pains of Being Pure at Heart
 + [So Beautiful or So What](http://www.amazon.com/So-Beautiful-What-Paul-Simon/dp/B004LAIU4I/), Paul Simon
 + [How to Become Clairvoyant](http://www.amazon.com/How-Become-Clairvoyant-Robbie-Robertson/dp/B004L79VUI/), Robbie Robertson
 + [Slave Ambient](http://www.amazon.com/Slave-Ambient-War-Drugs/dp/B0056ANHRW/), The War on Drugs 
 + [Hurry Up, We're Dreaming](http://www.amazon.com/Hurry-Up-Were-Dreaming-M83/dp/B005HS00NW/), M83
 + [Nine Types of Light](http://www.amazon.com/Nine-Types-Light-TV-Radio/dp/B004NHRGQW/), TV on the Radio
-+ [Cults](http://www.amazon.com/Cults/dp/B004RV6ZTI/), Cults
 + [Tourist History](http://www.amazon.com/Tourist-History-Door-Cinema-Club/dp/B003BQO10U/), Two Door Cinema Club (2010)
 + [Black Dub](http://www.amazon.com/Black-Dub/dp/B0041EVYVK/), Black Dub (2010)
 
