@@ -60,4 +60,4 @@ Thanks to the amazing city of Austin, this was the best year of concerts I've ev
 
 Also, [ACL Live at the Moody Theater](http://acl-live.com/venue) is my favorite concert venue ever. Beautiful space, fantastic sound, and a casual, friendly atmosphere. 
 
-I'm eagerly looking forward your year-end lists over the next few weeks.
+I'm eagerly looking forward to your year-end lists over the next few weeks.
