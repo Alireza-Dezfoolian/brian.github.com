@@ -11,7 +11,7 @@ My time at <a href="http://gowalla.com">Gowalla</a> has been incredibly rewardin
 
 We started with the Facebook game, PackRat, then created Gowalla. After two years, we packed up our houses and families and moved to the wonderful city of Austin. We built pretty amazing things at Gowalla, won some fine awards and accolades, and partnered with brands like Disney, Sundance Film Festival, and National Geographic.
 
-Over these four years, I've worked with some of the most talented and kind individuals I have ever met. I have talked with people around the world who were inspired by Gowalla to explore their cities and share their stories. I got to have tacos with Sean Parker and be part of some fantastic SXSW parties. 
+Over these four years, I've worked with some of the most talented and kind individuals I have ever met. I have talked with people around the world who were inspired by Gowalla to explore their cities and share their stories. I got to hear Steve Jobs mention Gowalla at the iPad launch, have tacos with Sean Parker and be part of some fantastic SXSW parties. 
 
 Mostly though, I got to do what I love&mdash;bring order to chaos as a team lead and project manager. Life at a startup is an amazing experience where every day is a new adventure. It's been a chance to learn constantly and to be challenged in ways I never imagined. I loved every minute of it.
 
