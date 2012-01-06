@@ -2,14 +2,15 @@
 layout: default
 ---
 
-<strong>{{ page.title }}</strong><br/>
-<div id="data">Written on {{ page.date | date:"%A, %B %d, %Y" }} ({{ page.content | number_of_words }} words)</div>
+<h1>{{ page.title }}</h1>
 
 <div id="post">
 {{ content }}
 </div>
 
-<div id="data">&laquo; <a href="{{ page.previous.url }}">previous</a> | <a href="{{ page.next.url }}">next</a> &raquo;</div>
+<div id="data">Written on {{ page.date | date:"%A, %B %d, %Y" }} ({{ page.content | number_of_words }} words)</div>
+
+<!-- ><div id="data">&laquo; <a href="{{ page.previous.url }}">previous</a> | <a href="{{ page.next.url }}">next</a> &raquo;</div> -->
 
 
 <div id="related">
