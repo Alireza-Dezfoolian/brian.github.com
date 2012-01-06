@@ -6,7 +6,7 @@ Four years ago, I [endorsed John McCain and Barack Obama](/2008/01/02/election-s
 
 I'm an optimist at heart, though — a devoted member of same Temple of Political Possibility that houses Aaron Sorkin, Mike Allen, and our patron saint, Tim Russert. It's a place that finds joy _and_ nobility in politics, in the face of so much evidence to the contrary. A place that always sees a new candidate just around the corner, a candidate who will raise the bar of discourse, take unconventional positions on difficult issues, and won't demonize his or her opponents. Like all great tribes of faith, we're intimately familiar with disappointment.
 
-Within the 2012 Republican field, Jon Huntsman is my choice. I've followed him and his campaign closely since the speculation-filled months before his announcement. For the best summation of why, read yesterday's [surprise endorsement by the Boston Globe](http://b.globe.com/yVhiLt).
+Within the 2012 Republican field, Jon Huntsman is my choice. I've followed him and his campaign closely since the speculation-filled months before his announcement. For the best summation of why, read yesterday's [endorsement by the Boston Globe](http://b.globe.com/yVhiLt).
 
 > With a strong record as governor of Utah and US ambassador to China, arguably the most important overseas diplomatic post, Huntsman’s credentials match those of anyone in the field. He would be the best candidate to seize this moment in GOP history, and the best-prepared to be president.
 
